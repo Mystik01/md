@@ -60,7 +60,7 @@
 - 12.2 Statistics
 - 12.3 Accessibility Features
 - 12.4 Loyalty Features
-- 12.5 Ordering Tracking Features
+- 12.5 Order Tracking Features
 - 12.6 AI Use
 
 ## Diagrams
@@ -78,9 +78,9 @@ Product Page       Customer Dashboard
                ┌────────┼─────────┐
              Orders   Loyalty   Account
 ```
-- Empahy map
-Attachted
-- System decompostion
+- Empathy map
+Attached
+- System decomposition
 ```
            Platform
                │
@@ -93,8 +93,8 @@ Store Dash Dash Auth Order Users
 Shows how the system is broken down into smaller components.
 
 - System Actors Diagram
-attached
-- 3 Tier acrchitecutre
+Attached
+- 3 Tier architecture
 ```
 ┌──────────────────────────┐
 │ Presentation Layer       │
